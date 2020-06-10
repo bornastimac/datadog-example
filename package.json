@@ -1,0 +1,14 @@
+{
+  "name": "datadog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datadog-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-dogstatsd": "0.0.7"
+  }
+}
